@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Seedance Studio
 
 Seedance Studio is a local-first video-generation control surface with a Python FastAPI backend, a browser UI, and an Expo Android client. It supports four workflow modes: **text-to-video**, **image-to-video**, **audio-to-video**, and **reference-video**. In offline mode it renders deterministic FFmpeg preview clips so the complete UI and job lifecycle can be tested without a model account. With an authorized Seedance-compatible endpoint configured, the backend submits asynchronous generation jobs and polls for output.
@@ -70,3 +71,7 @@ This sandbox does not contain the Android SDK or Gradle toolchain, so an APK can
 [2]: https://seed.bytedance.com/en/seedance2_5 "ByteDance Seedance 2.5"
 
 [3]: https://www.volcengine.com/docs/ark/seedance-2-5 "Volcengine ModelArk Seedance 2.5 documentation"
+=======
+# local-seedance-gen
+Local video generation using seedance
+>>>>>>> 56274f06c0ecb0b388a5395b22bfeedddc9e1737
