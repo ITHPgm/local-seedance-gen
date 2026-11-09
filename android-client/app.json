@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Seedance Studio",
+    "slug": "seedance-studio",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"],
+    "android": {"package": "studio.seedance.local", "adaptiveIcon": {"backgroundColor": "#101214"}},
+    "plugins": ["expo-router", "expo-document-picker"]
+  }
+}
